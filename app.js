@@ -14,6 +14,7 @@ weather.temperature = {
 
 // APP CONSTS AND VARS
 const KELVIN = 273;
+
 // API KEY
 const key = "96c82478eb343e5ebb4dce7df13ac70e";
 
